@@ -23,4 +23,5 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ## Steps
 1. I started by creating an ubuntu virtual machine in the cultr cloud
-2. <img width="200" height="600" alt="creating vm" src="https://github.com/user-attachments/assets/8ab4dd44-feff-4d07-b17f-dae3cadaf26b" />
+2. <img width="200" height="200" alt="creating vm" src="https://github.com/user-attachments/assets/8ab4dd44-feff-4d07-b17f-dae3cadaf26b" />
+3.I 
