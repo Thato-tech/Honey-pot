@@ -53,9 +53,11 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 9.I logged into the web GUI and used the IP address of the honeypot and this time I did not forget that the tpot web GUI listens on the new port number not that default one and it gave me an error and I clicked proceed
 
+
 <img width="350" height="400" alt="warning advances" src="https://github.com/user-attachments/assets/15ac1f2e-d04d-4b13-8ee2-5073cab82d67" />
 
 10.That is how I Installed tpot and it gave me so many options like cyberchef,Kibana but my personal favourite was the attack map that allowed me to see any devices that attacked my honeypot from all parts of the world
+
 
 <img width="350" height="400" alt="created honeypot" src="https://github.com/user-attachments/assets/2a142979-c7f8-4db0-aac4-ec61afa6ed2c" />
 
