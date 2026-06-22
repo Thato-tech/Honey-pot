@@ -22,6 +22,16 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-1. I started by creating an ubuntu virtual machine in the cultr cloud
-2. <img width="200" height="200" alt="creating vm" src="https://github.com/user-attachments/assets/8ab4dd44-feff-4d07-b17f-dae3cadaf26b" />
-3.I 
+1. I started by creating an ubuntu virtual machine in the vultr cloud and when creating the Virtual Machine I did not create any firewalls because I wanted anyone on the internet to connect or attack the honeypot
+<img width="200" height="200" alt="creating vm" src="https://github.com/user-attachments/assets/8ab4dd44-feff-4d07-b17f-dae3cadaf26b" />
+
+2.Opened powershell on my PC and I updated and upgraded my repositories
+<img width="350" height="400" alt="updating and upgrading vm" src="https://github.com/user-attachments/assets/ee871d30-c029-4627-a9e9-cfa29b2d1bcd" />
+
+3.Created a new user because it is unsafe to use my root account
+<img width="350" height="400" alt="adding jerry" src="https://github.com/user-attachments/assets/df63faf2-21a2-40e0-aaa4-d97b6f9ab526" />
+
+
+
+
+
