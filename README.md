@@ -30,6 +30,8 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 
 3.I created a new user because it is unsafe to use my root account
+
+
 <img width="350" height="400" alt="adding jerry" src="https://github.com/user-attachments/assets/35124ea7-9e47-4b6b-a8db-937bdc75f92d" />
 
 4.I added my new user (Jerry) into the sudo group so that he has admin priviledges
