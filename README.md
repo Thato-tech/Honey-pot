@@ -36,21 +36,27 @@ The Detection Lab project aimed to establish a controlled environment for simula
 <img width="350" height="400" alt="su jerry" src="https://github.com/user-attachments/assets/e570853d-3774-44fa-a6a7-7aa44bf02e8d" />
 
 5.Cloned the tpot github repository
+
 <img width="350" height="400" alt="inside jerry acc" src="https://github.com/user-attachments/assets/99b659b0-5afa-4a53-ba29-828d79172382" />
 
 6.I then installed the tpot standard repository and while installing it, it changed my SSH Port to 64295 meaning I can no longer SSH into my honey pot using the default port 22
+
 <img width="350" height="400" alt="installing tpot" src="https://github.com/user-attachments/assets/3b974ee1-d32a-4340-905a-35cb1dbf07db" />
 
-7. My standard tpot repository was installed and now I had to reboot and reconnect using a new SSH 
+7. My standard tpot repository was installed and now I had to reboot and reconnect using a new SSH
+ 
 <img width="350" height="400" alt="i think upgrading jerry" src="https://github.com/user-attachments/assets/1763aca4-cd5c-4bc5-9dd0-ab61c924d4b1" />
 
 8.Here I was just trying to login with my default SSH and it did not work because the SSH Port was changed and I then logged in using the correct SSH
+
 <img width="350" height="400" alt="ijo ohlistening to different" src="https://github.com/user-attachments/assets/edb17abc-dbfd-40d2-9f08-800a90c3fb67" />
 
 9.I logged into the web GUI and used the IP address of the honeypot and this time I did not forget that the tpot web GUI listens on the new port number not that default one and it gave me an error and I clicked proceed
+
 <img width="350" height="400" alt="warning advances" src="https://github.com/user-attachments/assets/15ac1f2e-d04d-4b13-8ee2-5073cab82d67" />
 
 10.That is how I Installed tpot and it gave me so many options like cyberchef,Kibana but my personal favourite was the attack map that allowed me to see any devices that attacked my honeypot from all parts of the world
+
 <img width="350" height="400" alt="created honeypot" src="https://github.com/user-attachments/assets/2a142979-c7f8-4db0-aac4-ec61afa6ed2c" />
 
 
