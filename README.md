@@ -26,13 +26,16 @@ The purpose of this project is to install the T-Pot multi-honeypot platform depl
 <img width="400" height="500" alt="creating vm" src="https://github.com/user-attachments/assets/8ab4dd44-feff-4d07-b17f-dae3cadaf26b" />
 
 2.I opened powershell on my PC and I updated and upgraded my repositories
+
 <img width="400" height="500" alt="updating and upgrading vm" src="https://github.com/user-attachments/assets/18dc30b0-9bb8-4788-86a8-05f5e25cf1a9" />
 
 
 3.I created a new user because it is unsafe to use my root account
+
 <img width="400" height="500" alt="adding jerry" src="https://github.com/user-attachments/assets/35124ea7-9e47-4b6b-a8db-937bdc75f92d" />
 
 4.I added my new user (Jerry) into the sudo group so that he has admin priviledges
+
 <img width="400" height="550" alt="su jerry" src="https://github.com/user-attachments/assets/e570853d-3774-44fa-a6a7-7aa44bf02e8d" />
 
 5.Cloned the tpot github repository
