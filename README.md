@@ -1,9 +1,8 @@
 # Honey-pot
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The purpose of this project is to install the T-Pot multi-honeypot platform deployment on a virtual machine, as part of this project will be to gather live threat intelligence for use by security professionals. The goal of the project will be to utilize the visualization capabilities provided within Kibana to identify global attack patterns, determine which protocols are being targeted most frequently by attackers, and to analyze the credentials that are commonly utilized in automated brute-force attacks.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
@@ -15,11 +14,10 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+-SSH (Secure Shell) : establishes a secure shell for establishing a remote command-line session with the cloud Virtual Machine allowing me to run the initial setup commands to configure your T-Pot.
+-Git: clones the official GitHub repository of T-Pot code on the virtual machine.
+-The Bash installer script :automates the process by running system checks,  modifying port numbers in my network configurations and initiates the installation of all necessary services that will be operating as a background service.
 
 ## Steps
 1. I started by creating an ubuntu virtual machine in the vultr cloud and when creating the Virtual Machine I did not create any firewalls because I wanted anyone on the internet to connect or attack the honeypot
