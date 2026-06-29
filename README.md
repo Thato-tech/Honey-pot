@@ -5,7 +5,6 @@
 The purpose of this project is to install the T-Pot multi-honeypot platform deployment on a virtual machine, as part of this project will be to gather live threat intelligence for use by security professionals. The goal of the project will be to utilize the visualization capabilities provided within Kibana to identify global attack patterns, determine which protocols are being targeted most frequently by attackers, and to analyze the credentials that are commonly utilized in automated brute-force attacks.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
@@ -63,15 +62,3 @@ The purpose of this project is to install the T-Pot multi-honeypot platform depl
 
 
 <img width="350" height="400" alt="created honeypot" src="https://github.com/user-attachments/assets/2a142979-c7f8-4db0-aac4-ec61afa6ed2c" />
-
-
-
-
-
-
-
-
-
-
-
-
