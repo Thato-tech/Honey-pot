@@ -16,7 +16,9 @@ The purpose of this project is to install the T-Pot multi-honeypot platform depl
 ### Tools Used
 
 -SSH (Secure Shell) : establishes a secure shell for establishing a remote command-line session with the cloud Virtual Machine allowing me to run the initial setup commands to configure your T-Pot.
+
 -Git: clones the official GitHub repository of T-Pot code on the virtual machine.
+
 -The Bash installer script :automates the process by running system checks,  modifying port numbers in my network configurations and initiates the installation of all necessary services that will be operating as a background service.
 
 ## Steps
